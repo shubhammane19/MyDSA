@@ -2,6 +2,11 @@
 
 class MyVector{
 
+    public:
+        MyVector()
+        {
+            
+        }
 
 };
 
